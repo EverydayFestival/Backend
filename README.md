@@ -38,7 +38,7 @@
 
 ---
 
-## 🚀 트러블슈팅
+## 🚀 주요 기능
 - [x] 축제/업체 검색 (정렬/페이지네이션)
 - [x] 임베딩 기반 유사 검색 (pgvector)
 - [x] 모집 공고 CRUD (CompanyRecruit / LaborRecruit)
